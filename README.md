@@ -6,7 +6,7 @@ Requirements:
   -	Story driven
   -	Top down
   -	Survival:
-    -	  Crafting
+    -   Crafting
     -   Inmates & guards/warden (enemies)
     -   Day/night cycle
   -	RPG:
